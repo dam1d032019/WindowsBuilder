@@ -1,4 +1,6 @@
-Windows Image Customization Tool
+COSAS DE PROGRAMACIÓN
+
+Windows Image Customization Tool 
 ================================
 WindowsBuilder is a tool for servicing Windows `WIM` image. You can now deep customize your Windows installation with ease!
 
